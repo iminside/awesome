@@ -440,6 +440,7 @@
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
 - [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+- [Whatsup](https://github.com/whatsup/whatsup#readme) - A frontend framework for chillout-mode development 🥤
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
